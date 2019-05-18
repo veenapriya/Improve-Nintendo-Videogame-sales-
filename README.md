@@ -9,15 +9,16 @@ https://www.kaggle.com/gregorut/videogamesales
 The dataset consists of Nintendo Video game sales at various regions like North America, Europe, and Japan.
 
 The different fields in the dataset include:
-Platform - Platform of the game's release (i.e. DS, WiiU, Wii, 3DS)
-Year -  In which year was the game's release
-Genre - Genre of the game
-Publisher - Publisher of the game
-NA_Sales - North American sales (in millions)
-EU_Sales – Europe sales (in millions)
-JP_Sales - Sales in Japan (in millions)
-Global_Sales - Total worldwide sales.
-Critic_score - Aggregate score compiled by Meta critic staff
-User_score - Score by Meta critic's subscribers
-Developer - Party responsible for creating the game
-Rating - The ESRB ratings.
+
+1. Platform - Platform of the game's release (i.e. DS, WiiU, Wii, 3DS)
+2. Year -  In which year was the game's release
+3. Genre - Genre of the game
+4. Publisher - Publisher of the game
+5. NA_Sales - North American sales (in millions)
+6. EU_Sales – Europe sales (in millions)
+7. JP_Sales - Sales in Japan (in millions)
+8. Global_Sales - Total worldwide sales.
+9. Critic_score - Aggregate score compiled by Meta critic staff
+10. User_score - Score by Meta critic's subscribers
+11. Developer - Party responsible for creating the game
+12. Rating - The ESRB ratings.
